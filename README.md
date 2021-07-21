@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=#189cc4&height=300&section=header&text=Front-End%|%Kim%Young%Geun&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=wave&color=#189cc4&height=300&section=header&text=FrontEnd%|%Kim%Young%Geun&fontSize=50)
 
