@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 안녕하세요! 지금은 코딩하는 코린이 <b>김영근</b>입니다.👶🏻 <br>
 
-끊임없이 공부하고 소통하며 저를 발전시키는 Font-End 개발자가 되고 싶습니다! <br>
+끊임없이 공부하고 소통하며, 계속해서 발전하는 Font-End 개발자가 되고 싶습니다! <br>
 
 
 <!-- <div align=center style='border:1px solid #ccc'> -->
