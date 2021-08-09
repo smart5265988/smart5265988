@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=FrontEnd_EzKim🤓&fontSize=50)
 
-<!-- <div align=center style='border:1px solid #ccc'> -->
+<div align=center>
 
 ### Introduce 👐🏻
 
@@ -46,4 +46,4 @@ Here are some ideas to get you started:
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:smart5265988@gmail.com)
 <br>
 
-<!-- </div> -->
+</div>
