@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
   ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
   ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)
-  ![MobX](https://img.shields.io/badge/MobX-FF9955?style=flat-square&logo=MobX&logoColor=white)
+  ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white)
  <br>
 
 ### 🧑‍💻 Contact
