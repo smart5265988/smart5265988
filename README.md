@@ -51,4 +51,6 @@ Here are some ideas to get you started:
 # 🌟 My Github Stats 🌟
   [![EzKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=smart5265988&show_icons=true&count_private=true&hide=issues,contribs&theme=vue)](https://github.com/smart5265988/)
 
+  
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smart5265988" /> -->
 </div>
