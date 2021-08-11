@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align=center>
 
-# Introduce 👐🏻
+# 👐🏻 Introduce 👐🏻
 
 안녕하세요! 지금은 코딩하는 코린이 <b>김영근</b>입니다.👶🏻 <br>
 
